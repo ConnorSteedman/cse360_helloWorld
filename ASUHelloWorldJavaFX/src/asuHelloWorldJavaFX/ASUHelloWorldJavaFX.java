@@ -1,5 +1,6 @@
-package asuHelloWorldJavaFX;
+// Hello World
 
+package asuHelloWorldJavaFX;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
